@@ -1,0 +1,29 @@
+.custom-bg-dark {
+    background-color: #888;
+}
+.btn-custom {
+    background-color: rgb(235, 168, 43);
+    color: whitesmoke;
+}
+
+.btn-custom:hover {
+    border-color: rgb(235, 168, 43);
+    color: rgb(235, 168, 43);
+}
+
+.btn-outline-custom {
+    border-color: rgb(235, 168, 43);
+    color: rgb(235, 168, 43);
+}
+
+.btn-outline-custom:hover {
+    background-color: rgb(235, 168, 43);
+    color: whitesmoke;
+}
+
+
+.form-control:focus {
+    box-shadow: none;
+    outline: none;
+    border: 1px solid rgb(235, 168, 43);
+}
